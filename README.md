@@ -2,6 +2,8 @@
 # Licious-clone
 
 This is our first project at Masai School Unit-2 construct week after learning HTML, CSS & JAVASCRIPT. 
+* Licious is leading to  deliver one-stop fresh meat.It is India’s first D2C Unicorn, The company operates on a farm-to-fork model, 
+              owning the entire back-end supply chain and cold chain
 
 * Here is the link of our website live on netlify: https://licious.netlify.app/ 
 
